@@ -16,4 +16,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- a href="https://github.com/turog/Simple-Offensive-Home-Lab/blob/main/README.md">Simple Offensive Home Lab</a>
+- <a href="https://github.com/turog/Simple-Offensive-Home-Lab/blob/main/README.md">Simple Offensive Home Lab</a>
