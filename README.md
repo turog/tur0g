@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                           | Associated Project         |
 |------------------------------------------------ |----------------------------|
-| Containerization                                | <a href="https://google.com">Detection Lab</a>|
-| Metasploit                                      | <a href="https://google.com">Detection Lab</a>|
+| Containerization                                | <a href="https://google.com">Home Lab</a>|
+| Metasploit                                      | <a href="https://google.com">Home Lab</a>|
 
 
 ## Projects
